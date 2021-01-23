@@ -1,9 +1,7 @@
 ### Hi there 👋
+[![riverstore's github stats](https://github-readme-stats.vercel.app/api?username=riverstore&show_icons=true&icon_color=199861&count_private=true&include_all_commits=true)](https://github.com/riverstore)
 
-<!--
-**riverstore/riverstore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Experience & Skills
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
