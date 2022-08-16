@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![riverstore's github stats](https://github-readme-stats.vercel.app/api?username=riverstore&show_icons=true&icon_color=199861&count_private=true&include_all_commits=true&theme=dark)](https://github.com/riverstore)
 
-[![most used ig](https://github-readme-stats.vercel.app/api/top-langs/?username=riverstore&layout=compact&theme=dracula&show_icons=true&langs_count=10)]((https://github.com/anuraghazra/github-readme-stats))
+[![most used ig](https://github-readme-stats.vercel.app/api/top-langs/?username=riverstore&layout=compact&theme=dark&show_icons=true&langs_count=10)]((https://github.com/anuraghazra/github-readme-stats))
 
 ### Experience & Skills
 
