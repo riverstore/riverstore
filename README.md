@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![riverstore's github stats](https://github-readme-stats.vercel.app/api?username=riverstore&show_icons=true&icon_color=199861&count_private=true&include_all_commits=true)](https://github.com/riverstore)
+[![riverstore's github stats](https://github-readme-stats.vercel.app/api?username=riverstore&show_icons=true&icon_color=199861&count_private=true&include_all_commits=true&theme=dark)](https://github.com/riverstore)
 
 ### Experience & Skills
 
