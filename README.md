@@ -12,4 +12,4 @@
 - 💬 Ask me about nothing
 - 📫 How to reach me: nowhere
 - 😄 Pronouns: nothing
-- ⚡ Fun fact: just suffering from depression
+- ⚡ Fun fact: nothing
